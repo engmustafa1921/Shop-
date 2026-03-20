@@ -30,8 +30,8 @@ from telegram.ext import (
 # ─────────────────────────────────────────────
 #  ⚙️  إعدادات — غيّر هذي القيم
 # ─────────────────────────────────────────────
-TOKEN = "YOUR_BOT_TOKEN_HERE"
-ADMIN_IDS = [123456789]          # ضع Telegram ID تبتاعك هنا
+TOKEN = "8326556715:AAEt_YKn-zz_gkCD0C7V46clY9vXdGigjoU"
+ADMIN_IDS = [227539181]          # ضع Telegram ID تبتاعك هنا
 DB_FILE = "store.db"
 CURRENCY = "IQD"                 # أو USD
 
